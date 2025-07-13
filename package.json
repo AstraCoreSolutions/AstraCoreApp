@@ -1,7 +1,7 @@
 {
   "name": "astracore-solutions",
   "version": "1.0.0",
-  "description": "AstraCore Solutions - Interní webová aplikace pro správu firmy",
+  "description": "AstraCore Solutions",
   "private": true,
   "homepage": "https://astracore.pro",
   "dependencies": {
