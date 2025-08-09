@@ -1,0 +1,1 @@
+Deploy kit popis a kroky viz workflow a Makefile.
