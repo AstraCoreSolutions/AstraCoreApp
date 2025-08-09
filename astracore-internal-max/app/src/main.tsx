@@ -1,1 +1,0 @@
-console.log('AstraCore Internal MAX loaded');
